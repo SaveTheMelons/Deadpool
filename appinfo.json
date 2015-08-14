@@ -1,0 +1,34 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "rmlf1995@gmail.com",
+    "longName": "DeadPebble v2",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/deadpool.png",
+                "name": "DEADPOOL_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/rogueheroacad.ttf",
+                "name": "DEADPOOL_FONT_48",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "DeadPebble v2",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "52835e5d-29d9-49c5-a979-1b3876674b95",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
