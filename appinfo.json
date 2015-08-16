@@ -17,6 +17,11 @@
                 "file": "fonts/rogueheroacad.ttf",
                 "name": "DEADPOOL_FONT_48",
                 "type": "font"
+            },
+            {
+                "file": "fonts/rogueheroacad.ttf",
+                "name": "DEADPOOL_FONT_14",
+                "type": "font"
             }
         ]
     },
